@@ -20,74 +20,51 @@
     </header>
     <main>
         <div class="row">
-            <h1>
+            <h1><!-- 需要回答的问题1 -->
                 How will you begin to dream something no machine can dream?
             </h1>
             <img src="assets/images/blur.png" alt="blur of pink ellipse" min-width="800px">
         </div>
-        <div class="row">
-            <h3>
-                From Franz Fanon's <em>Peau noire, masques blancs / Black Skin, White Masks</em>, 1952/1967
+        <div class="row"><!-- 问题1答案 -->
+            <h4>
+                I think I'll start with regret. It is precisely those imperfect moments that make up each and every one of us vivid and lively. Regret represents not only the memory point of "still a little short of perfection", but also a kind of tension. The direction of "leaving no regrets" has endowed us with the motivation for many actions. Of course, this kind of "leaving no regrets" doesn't necessarily mean striving to achieve something or creating a wonderful life. It can also be enjoying the present time to the fullest or taking a break to relax and rest to not waste one's energy. In short, it is to achieve some kind of satisfaction.
+            </h4>
+            <br>
+            <img src="assets/images/imperfect.png" alt="imperfect" min-width="800px">
+            <br>
+            <p>
+                
+            </p>
+        </div>
+        <div class="row2">
+            <h2> <!-- 需要回答的问题2 -->
+                If memory is built from shared stories, which dreams do you want written into the past? 
+            </h4>
+            <br> <!-- 问题2答案 -->
+            <h4>In the past, I was very afraid to face all my imperfections. But now I'm learning to get along with these "imperfections on the circle", and it is precisely these parts that make up the distinct me. I want to keep countless moments when my resume was rejected. Without these moments, it seems that the last little achievement would become even more insignificant. These not-so-smooth moments instead remind me of how difficult and remarkable it is to achieve each small milestone. I want to keep countless red crosses from my middle school days. These deduction points bear witness to my efforts, and how I went from knowing nothing at the beginning to gradually mastering every knowledge point through hard work. I want to keep the experiences of failed relationships. Through these experiences, I gradually learned how to love myself and others, balance altruism and self-interest, and learn to consider others' feelings while also paying attention to myself. If it weren't for all those stories, I wouldn't have been brave and effective in seizing every new opportunity that comes in the future. So, the idea of keeping these is not to celebrate the "narrative of suffering", but to thank myself along the way and all the people and things that have helped me.
             </h3>
             <br>
-            <p>
-                As David Marriot points out in his essay 'Inventions of Existence: Sylvia Wynter, Frantz Fanon,
-                Sociogeny, and "the Damned' "Fanon makes a certain reference to history, which he contrasts to that of
-                invention and that of self-creation:"
-            </p>
+            <img src="assets/images/failure.png" alt="failure" min-width="800px">
             <br>
-            <br>
-            <p>
-                <em>
-                    "I am not a prisoner of History [l'Histoire]. I should not seek there for the meaning of my destiny.
-                    I should constantly remind myself that the real leap [le véritable saut] consists in introducing
-                    invention into existence. In the world through which I travel, I am endlessly creating myself."
-                </em>
-            </p>
         </div>
         <div class="row2">
-            <h2>
-                If memory is built from shared stories, which dreams do you want written into the past? 
-            </h2>
-            <br>
-            <h3>What remains of you when all your stories are rewritten?</h3>
-        </div>
-        <div class="row2">
-            <h4>
+            <h3> <!-- 需要回答的问题3 -->
                 If you seek to realize your hopes through AI, how will you ensure that it remains faithful to your will?
-            </h4>
+            </h3>
         </div>
         <div class="row">
             <br>
             <img src="assets/images/2.png" alt="boxes" width="200px">
             <br>
-            <h3>
+            <h4>
                 <a href="https://canvas.duke.edu/courses/65265">TRANSCRIPT:
                     Octavia Butler and Samuel Delany, 1998</a>
-            </h3>
+            </h4>
         </div>
         <div class="row">
             <ul>
-                <li>
-                    Which relationships will make your life meaningful and magical. How do you nurture them?
-                </li>
-                <li>
-                    What are the aesthetics of the places that you live your life and how did they come to be that way?
-                </li>
-                <li>
-                    How do you spend your time? What stories do you seek out - to tell or to listen to?
-                </li>
-            </ul>
-            <ul>
-                <li>
-                    How will it sound? What will the rhythm of your day be?
-                </li>
-                <li>
-                    How will you move through the world?
-                </li>
-                <li>
-                    How do you spend your time? What stories do you seek out, whether to share or to absorb and pass on?
-                </li>
+                    <li>1. Think clearly (or even write down) the purpose you want to achieve before each use.</li>
+                    <li>2. Set a series of bottom-line rules before starting.</li>
             </ul>
         </div>
         <img src="assets/images/past stories.png"
@@ -95,8 +72,8 @@
     </main>
     <footer>
         <br>
-        Template for of Web-Based Multimedia Design <em>Future vision</em> Fall 2025
-        in-class assignment
+        <p>Web-Based Multimedia Design - <em>Future vision</em> Fall 2025</p>
+        <p>Yifan Zhao</p>
         <br>
         <br>
     </footer>
